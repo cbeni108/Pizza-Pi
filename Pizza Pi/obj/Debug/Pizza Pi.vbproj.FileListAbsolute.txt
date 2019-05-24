@@ -1,0 +1,12 @@
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\bin\Debug\Pizza Pi.exe.config
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\bin\Debug\Pizza Pi.exe
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\bin\Debug\Pizza Pi.pdb
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\bin\Debug\Pizza Pi.xml
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.vbprojAssemblyReference.cache
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\obj\Debug\Pizza_Pi.Form1.resources
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\obj\Debug\Pizza_Pi.Resources.resources
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.vbproj.GenerateResource.cache
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.vbproj.CoreCompileInputs.cache
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.exe
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.xml
+C:\Users\Crist\source\repos\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.pdb
